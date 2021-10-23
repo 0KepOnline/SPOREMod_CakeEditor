@@ -1,0 +1,19 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+	1
+	1
+end
+keys palettePagePartItems
+	building_parts~!be_fortress_06
+	0KepOnlineCakeEditor_Assets!ce_mouth_beak_herbivore_04_dan
+	paints~!0xF6E00E2F
+	paints~!BE_Theme_Cake
+end
+key palettePagePartParentPage cake_page

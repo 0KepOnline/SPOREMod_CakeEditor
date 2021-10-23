@@ -1,0 +1,16 @@
+key parent BuildingEditorTemplates!BuildingDetailShapeTemplate
+texts blockName
+	(CreatureRigblocks!0x22e28995) "Ridged Bill (PLACEHOLDER)"
+end
+int32 modelComplexityScore 16
+vector3 modelCreatureEffectOffset (0, -0.17, -0.08)
+float modelCreatureEffectOffsetFixY 0.740279
+float modelMaxScale 8
+vector3 modelRotation (0, 0, 0)
+key modelMeshLOD0 0KepOnlineCakeEditor_Assets!ce_mouth_beak_herbivore_04_dan
+float modelMinScale 0.5
+int32 modelPrice 250
+vector3 modelRotationBallHandleOffset (0, -0.3, 0.3)
+int32 modelRunTimeBoneCount 7
+float modelScale 1
+float modelZCorpMinScale 0.5

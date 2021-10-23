@@ -1,0 +1,6 @@
+key parent models!DefaultTemplate.prop
+bboxs modelBoundingBox
+	(-36.4748, -36.31872, -4.76992) (36.37232, 36.3758, 40.14392)
+end
+float modelBoundingRadius 65.30832
+key modelMeshLOD0 editor_rigblocks~!be_plate

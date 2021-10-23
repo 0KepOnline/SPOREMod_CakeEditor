@@ -1,0 +1,41 @@
+key parent editor_setup~!GlobalTemplate.prop
+string16 description "Cake Editor Setup"
+key editorBackgroundModel be_plate
+key editorBackgroundMusicPatch music_creature_editor
+float editorBoundSize 20
+key editorCameraThumbnail EditorCameraBuildingThumbnail.prop
+key editorCameraUI EditorCameraBuildingUI.prop
+key editorCurrencyIcon ufotools~!0xDFD87465.png
+int32 editorDefaultInitialBudget 50000
+key editorDefaultPaintTheme paints~!BE_theme_cake
+keys editorEnabledManipulators
+	0x6125EE88
+	cSPEditorManipulationPinning
+	0x67B68E4D
+	cSPEditorManipulationDeformHandle
+	cSPEditorManipulationRotationHandle
+end
+key editorLight BuildingEditor
+float editorMaxHeight 40
+float editorMinHeight -1
+keys editorModelTypes
+	BuildingCityHall
+	BuildingHouse
+	BuildingFarm
+	BuildingIndustry
+	BuildingEntertainment
+end
+texts editorName
+	(0xFFFFFFFF!0xffffffff) "Cake"
+end
+key editorPaintPalette palettes~!0x00000029.prop
+key editorPaintSwatchModel buildingModelsBLD~!buildingPaintSwatch.bld
+key editorPartsPalette palettes~!0x000000FF.prop
+key editorPedestalModel 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+key editorSaveDirectory 0x011AC19A!0xFFFFFFFF
+key editorSaveExtension 0xFFFFFFFF.bld
+bool editorSubtractPartsCostOnLoad true
+bool editorUseShadows true
+bool editorUseSkin false
+bool editorUseSpine false
+bool editorUseSymmetry false

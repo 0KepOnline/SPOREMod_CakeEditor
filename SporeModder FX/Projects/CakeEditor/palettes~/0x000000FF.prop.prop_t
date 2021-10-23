@@ -1,0 +1,4 @@
+key parent Adventure_brushes~!TemplatePaletteDefinition.prop
+string16 description "Cake Editor Palette"
+int32 palettePaletteStartupCategory 0
+key palettePaletteThumbnailGroupID 0KepOnlineCakeEditor_Assets!0xFFFFFFFF
