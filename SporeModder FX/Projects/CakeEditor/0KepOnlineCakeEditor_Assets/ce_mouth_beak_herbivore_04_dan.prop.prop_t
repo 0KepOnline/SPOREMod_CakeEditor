@@ -14,3 +14,7 @@ vector3 modelRotationBallHandleOffset (0, -0.3, 0.3)
 int32 modelRunTimeBoneCount 7
 float modelScale 1
 float modelZCorpMinScale 0.5
+
+bboxs modelDefaultChannelsBBox
+	(-0.140592, -0.253506, -0.101606) (0.140592, 0.131735, 0.138016)
+end
