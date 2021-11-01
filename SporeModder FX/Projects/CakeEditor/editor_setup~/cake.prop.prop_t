@@ -5,13 +5,13 @@ key editorBackgroundMusicPatch music_creature_editor
 float editorBoundSize 20
 key editorCameraThumbnail EditorCameraBuildingThumbnail.prop
 key editorCameraUI EditorCameraBuildingUI.prop
-key editorCurrencyIcon ufotools~!0xDFD87465.png
+key editorCurrencyIcon ufotools~!cake_currency.png
 int32 editorDefaultInitialBudget 50000
 key editorDefaultPaintTheme paints~!BE_theme_cake
 keys editorEnabledManipulators
 	0x6125EE88
 	cSPEditorManipulationPinning
-	0x67B68E4D
+	cSPEditorManipulationStacking
 	cSPEditorManipulationDeformHandle
 	cSPEditorManipulationRotationHandle
 end

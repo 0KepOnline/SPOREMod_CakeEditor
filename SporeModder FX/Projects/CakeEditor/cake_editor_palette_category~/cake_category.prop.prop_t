@@ -1,6 +1,6 @@
 key parent Adventure_brushes~!TemplatePaletteCategory.prop
-#key paletteCategoryIcon editors_building~!0x12299CC0.png
+key paletteCategoryIcon editors_building~!0x12299CC0.png
 texts paletteCategoryName
-	(be!0x1e8d2148) "Bodies"
+	(be!be_category_bodies) "Bodies"
 end
 uint32 paletteCategorySequenceNumber 200

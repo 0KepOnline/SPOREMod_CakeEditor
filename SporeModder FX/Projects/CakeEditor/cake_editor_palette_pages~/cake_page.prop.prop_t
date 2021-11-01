@@ -1,6 +1,6 @@
 key parent Adventure_brushes~!TemplatePaletteCakeParts.prop
 string16 description "Cake"
-#key paletteCategoryIcon editors_building~!0x12299CC0.png
+key paletteCategoryIcon editors_building~!0x12299CC0.png
 int32 palettePageNumRows 2
 key palettePageParentCategory cake_editor_palette_category~!cake_category
 uint32 palettePageSequenceNumber 100

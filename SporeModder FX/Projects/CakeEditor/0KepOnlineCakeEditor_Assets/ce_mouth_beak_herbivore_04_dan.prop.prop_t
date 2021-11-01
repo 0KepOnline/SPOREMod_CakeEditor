@@ -1,6 +1,6 @@
 key parent BuildingEditorTemplates!BuildingDetailShapeTemplate
 texts blockName
-	(CreatureRigblocks!0x22e28995) "Ridged Bill (PLACEHOLDER)"
+	(CreatureRigblocks!CE_mouth_beak_herbivore_04_dan) "Ridged Bill (PLACEHOLDER)"
 end
 int32 modelComplexityScore 16
 vector3 modelCreatureEffectOffset (0, -0.17, -0.08)
