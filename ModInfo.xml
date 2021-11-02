@@ -1,3 +1,3 @@
-<mod displayName="0KepOnline's Cake Editor Mod" unique="0KepOnlineCakeEditor" description="This mod fixes an unused Cake Editor hidden in the Spore files. You can launch it with -state:cake or -state:CakeEditor args." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20" requiresGalaxyReset="false" causesSaveDataDependency="false">
+<mod displayName="0KepOnline's Cake Editor Mod" unique="0KepOnlineCakeEditor" description="This mod fixes an unused Cake Editor hidden in the Spore files. You can launch it with '-state:cake' / '-state:CakeEditor' args or with ChocIce75's Enter Editor Mod by typing 'enterEditor cake' to the cheat console." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20" requiresGalaxyReset="false" causesSaveDataDependency="false">
 	<prerequisite>0KepOnlineCakeEditor_v1.2.package</prerequisite>
 </mod>
