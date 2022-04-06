@@ -7,7 +7,7 @@ vector3 modelCreatureEffectOffset (0, -0.17, -0.08)
 float modelCreatureEffectOffsetFixY 0.740279
 float modelMaxScale 8
 vector3 modelRotation (0, 0, 0)
-key modelMeshLOD0 0KepOnlineCakeEditor_Assets!ce_mouth_beak_herbivore_04_dan
+key modelMeshLOD0 0KepOnlineCakeEditor_Assets!CE_mouth_beak_herbivore_04_dan
 float modelMinScale 0.5
 int32 modelPrice 250
 vector3 modelRotationBallHandleOffset (0, -0.3, 0.3)

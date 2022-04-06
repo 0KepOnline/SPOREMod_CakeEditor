@@ -11,9 +11,9 @@ int32s palettePagePartItemRows
 	1
 end
 keys palettePagePartItems
-	building_parts~!be_fortress_06
-	0KepOnlineCakeEditor_Assets!ce_mouth_beak_herbivore_04_dan
-	paints~!0xF6E00E2F
-	paints~!BE_Theme_Cake
+	building_parts~!BE_fortress_06
+	0KepOnlineCakeEditor_Assets!CE_mouth_beak_herbivore_04_dan
+	paints~!BE_theme_chococake
+	paints~!BE_theme_cake
 end
 key palettePagePartParentPage cake_page
